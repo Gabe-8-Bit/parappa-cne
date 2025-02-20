@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "Pattern Number",
+            "type": "String",
+            "defaultValue": "0"
+        }
+    ]
+}

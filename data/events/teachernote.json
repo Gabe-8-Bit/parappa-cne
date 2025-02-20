@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "Teacher Note",
+            "type": "String",
+            "defaultValue": "t"
+        },
+        {
+            "name": "Beat",
+            "type": "String",
+            "defaultValue": "0"
+        }
+    ]
+}

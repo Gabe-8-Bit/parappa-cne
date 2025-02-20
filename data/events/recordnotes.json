@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "Beat Offset",
+            "type": "String",
+            "defaultValue": "0"
+        }
+    ]
+}

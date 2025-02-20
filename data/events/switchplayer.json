@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "Switch Player Icon",
+            "type": "String",
+            "defaultValue": "teacher"
+        }
+    ]
+}

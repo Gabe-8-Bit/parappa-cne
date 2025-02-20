@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "Switch Sounds",
+            "type": "String",
+            "defaultValue": "0"
+        }
+    ]
+}
